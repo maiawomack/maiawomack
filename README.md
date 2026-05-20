@@ -9,23 +9,25 @@ University of Washington, Seattle · CS '29 · open to internships
 
 ---
 
-### 💫 about me
-I'm currently working on bringing my Robotic Dog Companion to life with custom circuitry.<br>
+### about me
+I'm currently working on bringing my Robotic Dog Companion to life with custom circuitry!<br>
 I'm looking to collaborate on hardware-software integrations or open-source robotics.<br>
-I'm looking for help with optimizing complex SQL data pipelines for large datasets.<br>
-I'm currently learning real-time computer vision detection models.<br>
 Ask me about tutoring, balancing hardware with software, or my time at DAT.<br>
 Fun fact: I founded a tutoring practice and helped triple female participation in robotics!
 
 ---
 
-### 🌐 socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wo.maia)
+### socials
+<div align="center">
+
+[![LinkedIn](https://shields.io)](https://linkedin.com) &nbsp; [![Instagram](https://shields.io)](https://instagram.com)
+
+</div>
 
 ---
 
-### 💻 tech stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+### tech stack
+![C](https://shields.io) ![Java](https://shields.io) ![JavaScript](https://shields.io) ![LaTeX](https://shields.io) ![Python](https://shields.io) ![R](https://shields.io) ![TypeScript](https://shields.io) ![Windows Terminal](https://shields.io) ![NodeJS](https://shields.io) ![React Native](https://shields.io) ![Vue.js](https://shields.io) ![Adobe](https://shields.io) ![Adobe After Effects](https://shields.io) ![Adobe Creative Cloud](https://shields.io) ![Adobe Illustrator](https://shields.io) ![Adobe Lightroom](https://shields.io) ![Adobe Photoshop](https://shields.io) ![Adobe Premiere Pro](https://shields.io) ![Canva](https://shields.io) ![Figma](https://shields.io) ![Rhinoceros](https://shields.io) ![GitHub](https://shields.io) ![Git](https://shields.io) ![Arduino](https://shields.io) ![Notion](https://shields.io) ![Raspberry Pi](https://shields.io)
 
 ---
 
@@ -79,21 +81,7 @@ Current Reads ── Six of Crows
 
 ### github stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=maiawomack&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=maiawomack&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=maiawomack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-
-✨ *thanks for stopping by!* ✨
-
-<br>
-
-[![Profile Views](https://komarev.com)](https://github.com)
-
-</div>
+  <table style="border-collapse: collapse; border: none; background: none;">
+    <tr style="background: none; border: none;">
+      <td style="border: none; padding: 5px;" valign="top">
+        <img src="https://vercel.app" alt="Maia's 
