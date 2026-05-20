@@ -5,7 +5,7 @@
 
 University of Washington, Seattle · CS '29 · open to internships
 
-[<span style="color: #0d9488; text-decoration: underline;">linkedin</span>](https://linkedin.com) · [<span style="color: #0284c7; text-decoration: underline;">email</span>](mailto:maialwomack@gmail.com)
+[linkedin](https://linkedin.com) · [email](mailto:maialwomack@gmail.com)
 
 </div>
 
@@ -19,11 +19,11 @@ I build robots, and bridge the gap between technical work and the people it's fo
 ### stack & skills
 <table>
   <tr style="background: none; border: none;">
-    <td style="border: none; padding-left: 0; color: #0d9488;"><b>Languages</b></td>
+    <td style="border: none; padding-left: 0;"><b>Languages</b></td>
     <td style="border: none;">Python · Java · TypeScript · C · SQL · R</td>
   </tr>
   <tr style="background: none; border: none;">
-    <td style="border: none; padding-left: 0; color: #0284c7;"><b>Frameworks & Tools</b></td>
+    <td style="border: none; padding-left: 0;"><b>Frameworks & Tools</b></td>
     <td style="border: none;">React · Node.js · Arduino · Git · Fusion 360 · RStudio</td>
   </tr>
 </table>
@@ -33,27 +33,27 @@ I build robots, and bridge the gap between technical work and the people it's fo
 ### projects
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="background: none; border: none;">
-    <!-- CARD 1: EMERALD -->
-    <td width="33%" style="border: 1px solid #a7f3d0; border-radius: 12px; padding: 20px; background-color: #f0fdf4; vertical-align: top;">
-      <h4 style="color: #047857; margin-top: 0;">Robotic Dog Companion</h4>
-      <p style="font-size: 13px; color: #065f46;">Custom circuitry, CAD, 3D printing, and a mobile app with Google Gemini voice interaction.</p>
-      <code style="font-size: 11px; background: #d1fae5; padding: 2px 6px; border-radius: 4px; color: #065f46;">Lolin S2 mini</code> 
-      <code style="font-size: 11px; background: #d1fae5; padding: 2px 6px; border-radius: 4px; color: #065f46;">Wiring</code>
-      <code style="font-size: 11px; background: #d1fae5; padding: 2px 6px; border-radius: 4px; color: #065f46;">CAD</code>
+    <!-- CARD 1 -->
+    <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; vertical-align: top;">
+      <h4>$${\color{#0d9488}Robotic \space Dog \space Companion}$$</h4>
+      <p style="font-size: 13px; color: #475569;">Custom circuitry, CAD, 3D printing, and a mobile app with Google Gemini voice interaction.</p>
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
     </td>
-    <!-- CARD 2: SAPPHIRE -->
-    <td width="33%" style="border: 1px solid #bae6fd; border-radius: 12px; padding: 20px; background-color: #f0f9ff; vertical-align: top;">
-      <h4 style="color: #0369a1; margin-top: 0;">Frontier</h4>
-      <p style="font-size: 13px; color: #075985;">Multiplayer space strategy board game using a custom canvas engine and full state management.</p>
-      <code style="font-size: 11px; background: #e0f2fe; padding: 2px 6px; border-radius: 4px; color: #075985;">JavaScript</code> 
-      <code style="font-size: 11px; background: #e0f2fe; padding: 2px 6px; border-radius: 4px; color: #075985;">Canvas</code>
+    <!-- CARD 2 -->
+    <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; vertical-align: top;">
+      <h4>$${\color{#0284c7}Frontier}$$</h4>
+      <p style="font-size: 13px; color: #475569;">Multiplayer space strategy board game using a custom canvas engine and full state management.</p>
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
     </td>
-    <!-- CARD 3: AMETHYST -->
-    <td width="33%" style="border: 1px solid #e9d5ff; border-radius: 12px; padding: 20px; background-color: #faf5ff; vertical-align: top;">
-      <h4 style="color: #7e22ce; margin-top: 0;">Salary Analysis</h4>
-      <p style="font-size: 13px; color: #6b21a8;">R and SQL pipeline parsing global compensation trends across roles, skills, and locations.</p>
-      <code style="font-size: 11px; background: #f3e8ff; padding: 2px 6px; border-radius: 4px; color: #6b21a8;">R</code> 
-      <code style="font-size: 11px; background: #f3e8ff; padding: 2px 6px; border-radius: 4px; color: #6b21a8;">SQL</code>
+    <!-- CARD 3 -->
+    <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; vertical-align: top;">
+      <h4>$${\color{#7e22ce}Salary \space Analysis}$$</h4>
+      <p style="font-size: 13px; color: #475569;">R and SQL pipeline parsing global compensation trends across roles, skills, and locations.</p>
+      <img src="https://shields.io" />
+      <img src="https://shields.io" />
     </td>
   </tr>
 </table>
