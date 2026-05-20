@@ -85,6 +85,8 @@ Data pipeline analyzing global compensation trends using R and SQL. Focus on rol
 
 ---
 
+# FUN FACTS
+
 ## highlights & numbers
 * 3x intern across logistics and analytics startups — shipped backend + data systems work
 * $2M+ in transactions and utility deposits processed securely
