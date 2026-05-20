@@ -6,9 +6,9 @@ University of Washington, Seattle · CS ‘29 · open to internships
 ---
 
 # ABOUT ME:
-I’m currently a CS student at the University of Washington focused on robotics, systems, and human-centered technology.<br>
-Right now I’m building a Robotic Dog Companion with custom circuitry, embedded systems, and physical prototyping.<br>
-I’m looking to collaborate on robotics, embedded systems, or open-source hardware/software projects.<br>
+- I’m currently a CS student at the University of Washington focused on robotics, systems, and human-centered technology.<br>
+- Right now I’m building a Robotic Dog Companion with custom circuitry, embedded systems, and physical prototyping.<br>
+- I’m looking to collaborate on robotics, embedded systems, or open-source hardware/software projects.<br>
 
 ---
 
