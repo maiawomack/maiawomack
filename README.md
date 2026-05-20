@@ -37,10 +37,9 @@ I build robots, and bridge the gap between technical work and the people it's fo
     <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; background-color: #f8fafc; vertical-align: top;">
       <h4>Robotic Dog Companion</h4>
       <p style="font-size: 13px; color: #475569;">Custom circuitry, CAD, 3D printing, and a mobile app with Google Gemini voice interaction.</p>
-      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">Lolin S2 mini</code>
+      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">Lolin S2 mini</code> 
       <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">Wiring</code>
       <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">CAD</code>
-
     </td>
     <!-- CARD 2 -->
     <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; background-color: #f8fafc; vertical-align: top;">
