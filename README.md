@@ -12,7 +12,7 @@ University of Washington, Seattle · CS '29 · open to internships
 ---
 
 ### about me
-I build robots, write SQL, and bridge the gap between technical work and the people it's for. When I'm not coding, you can find me tutoring, climbing mountains, or throwing clay on a pottery wheel.
+I build robots, and bridge the gap between technical work and the people it's for. When I'm not coding, you can find me tutoring, climbing mountains, or throwing clay on a pottery wheel.
 
 ---
 
@@ -37,8 +37,10 @@ I build robots, write SQL, and bridge the gap between technical work and the peo
     <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; background-color: #f8fafc; vertical-align: top;">
       <h4>Robotic Dog Companion</h4>
       <p style="font-size: 13px; color: #475569;">Custom circuitry, CAD, 3D printing, and a mobile app with Google Gemini voice interaction.</p>
-      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">Python</code> 
-      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">Arduino</code>
+      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">Lolin S2 mini</code>
+      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">Wiring</code>
+      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">CAD</code>
+
     </td>
     <!-- CARD 2 -->
     <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; background-color: #f8fafc; vertical-align: top;">
@@ -66,15 +68,14 @@ I build robots, write SQL, and bridge the gap between technical work and the peo
 * **$2M+** in transactions and utility deposits securely processed.
 * **25k+** media impressions managed as the Husky Robotics PR Lead.
 * **2x FTC Innovate Award** winner.
-* Founded a tutoring practice, mentored 30+ tech students, and grew female robotics membership **3x**.
 
 ---
 
 ### beyond the terminal
 ```text
 Hobbies ── skiing · hiking · camping · pottery · singing · crafting · golfing · reading
-Watching ─ Andor · Ted Lasso · Friends · Star Wars: RotJ · She's the Man
-Reading ── Lunar Chronicles · The Hobbit · Renegades · Chronicles of Narnia
+Current Watches ─ Clone Wars · New Girl · High Potential · The Departed
+Current Reads ── Six of Crows
 ```
 
 ---
