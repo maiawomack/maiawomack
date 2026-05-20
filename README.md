@@ -38,21 +38,21 @@ I build robots, and bridge the gap between technical work and the people it's fo
       <h4>$${\color{#0d9488}Robotic \space Dog \space Companion}$$</h4>
       <p style="font-size: 13px; color: #475569;">Custom circuitry, CAD, 3D printing, and a mobile app with Google Gemini voice interaction.</p>
       <br>
-      ![Lolin S2 mini](https://shields.io) ![Wiring](https://shields.io) ![CAD](https://shields.io)
+      <img src="https://shields.io" alt="Lolin S2 mini" />&nbsp;<img src="https://shields.io" alt="Wiring" />&nbsp;<img src="https://shields.io" alt="CAD" />
     </td>
     <!-- CARD 2 -->
     <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; vertical-align: top;">
       <h4>$${\color{#0284c7}Frontier}$$</h4>
       <p style="font-size: 13px; color: #475569;">Multiplayer space strategy board game using a custom canvas engine and full state management.</p>
       <br>
-      ![JavaScript](https://shields.io) ![Canvas](https://shields.io)
+      <img src="https://shields.io" alt="JavaScript" />&nbsp;<img src="https://shields.io" alt="Canvas" />
     </td>
     <!-- CARD 3 -->
     <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; vertical-align: top;">
       <h4>$${\color{#7e22ce}Salary \space Analysis}$$</h4>
       <p style="font-size: 13px; color: #475569;">R and SQL pipeline parsing global compensation trends across roles, skills, and locations.</p>
       <br>
-      ![R](https://shields.io) ![SQL](https://shields.io)
+      <img src="https://shields.io" alt="R" />&nbsp;<img src="https://shields.io" alt="SQL" />
     </td>
   </tr>
 </table>
