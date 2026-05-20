@@ -5,7 +5,7 @@
 
 University of Washington, Seattle · CS '29 · open to internships
 
-[linkedin](https://linkedin.com) · [email](mailto:maialwomack@gmail.com) · [uwrobots.org](https://uwrobots.org)
+[linkedin](https://linkedin.com) · [email](mailto:maialwomack@gmail.com)
 
 </div>
 
