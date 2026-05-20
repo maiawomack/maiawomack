@@ -10,7 +10,7 @@ University of Washington, Seattle · CS '29 · open to internships
 ---
 
 ### about me
-I'm currently working on bringing my Robotic Dog Companion to life with custom circuitry!<br>
+I'm currently working on bringing my Robotic Dog Companion to life with custom circuitry.<br>
 I'm looking to collaborate on hardware-software integrations or open-source robotics.<br>
 Ask me about tutoring, balancing hardware with software, or my time at DAT.<br>
 Fun fact: I founded a tutoring practice and helped triple female participation in robotics!
@@ -84,4 +84,28 @@ Current Reads ── Six of Crows
   <table style="border-collapse: collapse; border: none; background: none;">
     <tr style="background: none; border: none;">
       <td style="border: none; padding: 5px;" valign="top">
-        <img src="https://vercel.app" alt="Maia's 
+        <img src="https://vercel.app" alt="Maia's GitHub Stats" />
+      </td>
+      <td style="border: none; padding: 5px;" valign="top">
+        <img src="https://vercel.app" alt="Maia's Top Languages" />
+      </td>
+    </tr>
+    <tr style="background: none; border: none;">
+      <td colspan="2" style="border: none; padding: 5px;" align="center">
+        <img src="https://demolab.com" alt="Maia's Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+
+✨ *thanks for stopping by!* ✨
+
+<br>
+
+[![Profile Views](https://komarev.com)](https://github.com)
+
+</div>
