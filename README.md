@@ -37,26 +37,26 @@ I build robots, and bridge the gap between technical work and the people it's fo
     <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; vertical-align: top;">
       <h4>$${\color{#0d9488}Robotic \space Dog \space Companion}$$</h4>
       <p style="font-size: 13px; color: #475569;">Custom circuitry, CAD, 3D printing, and a mobile app with Google Gemini voice interaction.</p>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
+      <br>
+      ![Lolin S2 mini](https://shields.io) ![Wiring](https://shields.io) ![CAD](https://shields.io)
     </td>
     <!-- CARD 2 -->
     <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; vertical-align: top;">
       <h4>$${\color{#0284c7}Frontier}$$</h4>
       <p style="font-size: 13px; color: #475569;">Multiplayer space strategy board game using a custom canvas engine and full state management.</p>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
+      <br>
+      ![JavaScript](https://shields.io) ![Canvas](https://shields.io)
     </td>
     <!-- CARD 3 -->
     <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; vertical-align: top;">
       <h4>$${\color{#7e22ce}Salary \space Analysis}$$</h4>
       <p style="font-size: 13px; color: #475569;">R and SQL pipeline parsing global compensation trends across roles, skills, and locations.</p>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
+      <br>
+      ![R](https://shields.io) ![SQL](https://shields.io)
     </td>
   </tr>
 </table>
+
 
 *(GIF demos coming soon for rover locomotion, CV detection, and gameplay!)*
 
