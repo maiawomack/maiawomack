@@ -1,11 +1,11 @@
-# ✨ maia womack ✨
+# ✨ MAIA WOMACK ✨
 *builder ── robotics engineer ── communicator*
 
 University of Washington, Seattle · CS ‘29 · open to internships
 
 ---
 
-# about me:
+# ABOUT ME:
 I’m currently a CS student at the University of Washington focused on robotics, systems, and human-centered technology.<br><br>
 
 Right now I’m building a Robotic Dog Companion with custom circuitry, embedded systems, and physical prototyping.<br>
@@ -18,13 +18,13 @@ fun fact: I founded a tutoring practice and helped increase female participation
 
 ---
 
-# socials:
+# SOCIALS:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wo.maia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
 
 ---
 
-# tech stack:
+# TECH STACK:
 
 ## core languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -60,7 +60,7 @@ fun fact: I founded a tutoring practice and helped increase female participation
 
 ---
 
-# projects
+# PROJECTS
 
 ## Robotic Dog Companion
 A robotics platform combining embedded systems, circuitry, CAD, and physical prototyping. Exploring motion control, interaction systems, and hardware/software integration.
@@ -85,7 +85,7 @@ Data pipeline analyzing global compensation trends using R and SQL. Focus on rol
 
 ---
 
-# highlights & numbers
+## highlights & numbers
 * 3x intern across logistics and analytics startups — shipped backend + data systems work
 * $2M+ in transactions and utility deposits processed securely
 * 25k+ media impressions through Husky Robotics communications work
@@ -93,7 +93,7 @@ Data pipeline analyzing global compensation trends using R and SQL. Focus on rol
 
 ---
 
-# beyond the terminal
+## beyond the terminal
 ```text
 Hobbies ── skiing · hiking · camping · pottery · singing · crafting · golfing · reading
 
