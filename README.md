@@ -5,28 +5,27 @@
 
 University of Washington, Seattle · CS '29 · open to internships
 
-[linkedin](https://linkedin.com) · [email](mailto:maialwomack@gmail.com)
-
 </div>
 
 ---
 
-### about me
-I build robots, and bridge the gap between technical work and the people it's for. When I'm not coding, you can find me tutoring, climbing mountains, or throwing clay on a pottery wheel.
+### 💫 about me
+I'm currently working on bringing my Robotic Dog Companion to life with custom circuitry.<br>
+I'm looking to collaborate on hardware-software integrations or open-source robotics.<br>
+I'm looking for help with optimizing complex SQL data pipelines for large datasets.<br>
+I'm currently learning real-time computer vision detection models.<br>
+Ask me about tutoring, balancing hardware with software, or my time at DAT.<br>
+Fun fact: I founded a tutoring practice and helped triple female participation in robotics!
 
 ---
 
-### stack & skills
-<table>
-  <tr style="background: none; border: none;">
-    <td style="border: none; padding-left: 0;"><b>Languages</b></td>
-    <td style="border: none;">Python · Java · TypeScript · C · SQL · R</td>
-  </tr>
-  <tr style="background: none; border: none;">
-    <td style="border: none; padding-left: 0;"><b>Frameworks & Tools</b></td>
-    <td style="border: none;">React · Node.js · Arduino · Git · Fusion 360 · RStudio</td>
-  </tr>
-</table>
+### 🌐 socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wo.maia)
+
+---
+
+### 💻 tech stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ---
 
@@ -57,7 +56,6 @@ I build robots, and bridge the gap between technical work and the people it's fo
   </tr>
 </table>
 
-
 *(GIF demos coming soon for rover locomotion, CV detection, and gameplay!)*
 
 ---
@@ -79,12 +77,23 @@ Current Reads ── Six of Crows
 
 ---
 
+### github stats
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=maiawomack&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=maiawomack&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=maiawomack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
 <div align="center">
 
 ✨ *thanks for stopping by!* ✨
 
 <br>
 
-![](https://visitorbadge.io)
+[![Profile Views](https://komarev.com)](https://github.com)
 
 </div>
