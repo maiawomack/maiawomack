@@ -9,7 +9,7 @@ University of Washington, Seattle · CS '29 · open to internships
 
 ---
 
-### about me
+### 💫 about me
 I'm currently working on bringing my Robotic Dog Companion to life with custom circuitry.<br>
 I'm looking to collaborate on hardware-software integrations or open-source robotics.<br>
 Ask me about tutoring, balancing hardware with software, or my time at DAT.<br>
@@ -19,15 +19,14 @@ Fun fact: I founded a tutoring practice and helped triple female participation i
 
 ### socials
 <div align="center">
-
-[![LinkedIn](https://shields.io)](https://linkedin.com) &nbsp; [![Instagram](https://shields.io)](https://instagram.com)
-
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com" target="_blank"><img src="https://shields.io" alt="Instagram" /></a>
 </div>
 
 ---
 
 ### tech stack
-![C](https://shields.io) ![Java](https://shields.io) ![JavaScript](https://shields.io) ![LaTeX](https://shields.io) ![Python](https://shields.io) ![R](https://shields.io) ![TypeScript](https://shields.io) ![Windows Terminal](https://shields.io) ![NodeJS](https://shields.io) ![React Native](https://shields.io) ![Vue.js](https://shields.io) ![Adobe](https://shields.io) ![Adobe After Effects](https://shields.io) ![Adobe Creative Cloud](https://shields.io) ![Adobe Illustrator](https://shields.io) ![Adobe Lightroom](https://shields.io) ![Adobe Photoshop](https://shields.io) ![Adobe Premiere Pro](https://shields.io) ![Canva](https://shields.io) ![Figma](https://shields.io) ![Rhinoceros](https://shields.io) ![GitHub](https://shields.io) ![Git](https://shields.io) ![Arduino](https://shields.io) ![Notion](https://shields.io) ![Raspberry Pi](https://shields.io)
+<img src="https://shields.io" alt="C" /> <img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="LaTeX" /> <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="R" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="Windows Terminal" /> <img src="https://shields.io" alt="NodeJS" /> <img src="https://shields.io" alt="React Native" /> <img src="https://shields.io" alt="Vue.js" /> <img src="https://shields.io" alt="Adobe" /> <img src="https://shields.io" alt="Adobe After Effects" /> <img src="https://shields.io" alt="Adobe Creative Cloud" /> <img src="https://shields.io" alt="Adobe Illustrator" /> <img src="https://shields.io" alt="Adobe Lightroom" /> <img src="https://shields.io" alt="Adobe Photoshop" /> <img src="https://shields.io" alt="Adobe Premiere Pro" /> <img src="https://shields.io" alt="Canva" /> <img src="https://shields.io" alt="Figma" /> <img src="https://shields.io" alt="Rhinoceros" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="Arduino" /> <img src="https://shields.io" alt="Notion" /> <img src="https://shields.io" alt="Raspberry Pi" />
 
 ---
 
@@ -106,6 +105,6 @@ Current Reads ── Six of Crows
 
 <br>
 
-[![Profile Views](https://komarev.com)](https://github.com)
+<img src="https://komarev.com" alt="Profile Views" />
 
 </div>
