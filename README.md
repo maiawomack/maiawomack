@@ -6,7 +6,9 @@ University of Washington, Seattle · CS '29 · open to internships
 ---
 
 # 💫 About Me:
-I'm currently working on bringing my Robotic Dog Companion to life with custom circuitry.<br>I'm looking to collaborate on hardware-software integrations or open-source robotics. I'm looking for help with optimizing complex SQL data pipelines for large datasets.<br>I'm currently learning real-time computer vision detection models.<br>Ask me about tutoring, balancing hardware with software, or my time at DAT.<br>Fun fact: I founded a tutoring practice and helped triple female participation in robotics!
+I'm currently working on bringing my Robotic Dog Companion to life with custom circuitry.<br>
+I'm looking to collaborate on hardware-software integrations or open-source robotics.<br>
+Ask me about tutoring, balancing hardware with software, or my time at DAT.<br>Fun fact: I founded a tutoring practice and helped triple female participation in robotics!
 
 ---
 
@@ -14,25 +16,26 @@ I'm currently working on bringing my Robotic Dog Companion to life with custom c
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="background: none; border: none;">
     <!-- CARD 1 -->
-    <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h4>$${\color{#0d9488}Robotic \space Dog \space Companion}$$</h4>
+    <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; background-color: #f8fafc; vertical-align: top;">
+      <h4>Robotic Dog Companion</h4>
       <p style="font-size: 13px; color: #475569;">Custom circuitry, CAD, 3D printing, and a mobile app with Google Gemini voice interaction.</p>
-      <br>
-      <img src="https://shields.io" alt="Lolin S2 mini" />&nbsp;<img src="https://shields.io" alt="Wiring" />&nbsp;<img src="https://shields.io" alt="CAD" />
+      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">Lolin S2 mini</code> 
+      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">Wiring</code>
+      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">CAD</code>
     </td>
     <!-- CARD 2 -->
-    <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h4>$${\color{#0284c7}Frontier}$$</h4>
+    <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; background-color: #f8fafc; vertical-align: top;">
+      <h4>Frontier</h4>
       <p style="font-size: 13px; color: #475569;">Multiplayer space strategy board game using a custom canvas engine and full state management.</p>
-      <br>
-      <img src="https://shields.io" alt="JavaScript" />&nbsp;<img src="https://shields.io" alt="Canvas" />
+      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">JavaScript</code> 
+      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">Canvas</code>
     </td>
     <!-- CARD 3 -->
-    <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; vertical-align: top;">
-      <h4>$${\color{#7e22ce}Salary \space Analysis}$$</h4>
+    <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; background-color: #f8fafc; vertical-align: top;">
+      <h4>Salary Analysis</h4>
       <p style="font-size: 13px; color: #475569;">R and SQL pipeline parsing global compensation trends across roles, skills, and locations.</p>
-      <br>
-      <img src="https://shields.io" alt="R" />&nbsp;<img src="https://shields.io" alt="SQL" />
+      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">R</code> 
+      <code style="font-size: 11px; background: #f1f5f9; padding: 2px 6px; border-radius: 4px; color: #0f172a;">SQL</code>
     </td>
   </tr>
 </table>
