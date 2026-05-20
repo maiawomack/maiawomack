@@ -5,7 +5,7 @@ University of Washington, Seattle · CS ‘29 · open to internships
 
 ---
 
-## about me:
+# about me:
 I’m currently a CS student at the University of Washington focused on robotics, systems, and human-centered technology.<br><br>
 
 Right now I’m building a Robotic Dog Companion with custom circuitry, embedded systems, and physical prototyping.<br>
@@ -18,67 +18,73 @@ fun fact: I founded a tutoring practice and helped increase female participation
 
 ---
 
-## socials:
+# socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wo.maia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
 
 ---
 
 # tech stack:
+
+## core languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## projects
+## robotics + embedded systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Embedded Systems](https://img.shields.io/badge/embedded-systems-black?style=for-the-badge)
+![CAD](https://img.shields.io/badge/CAD%20%2F%203D%20Printing-grey?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="background: none; border: none;">
+---
 
-    <!-- CARD 1 -->
-    <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; background-color: #f8fafc; vertical-align: top;">
-      <h4>Robotic Dog Companion</h4>
-      <p style="font-size: 13px; color: #475569;">
-        A robotics platform combining embedded systems, circuitry, CAD, and physical prototyping.
-        Currently exploring motion, control, and app-based interaction.
-      </p>
-      <code>Embedded Systems</code>
-      <code>CAD</code>
-      <code>3D Printing</code>
-      <code>Python</code>
-    </td>
+## robotics & perception (learning / building into)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/computer%20vision-learning-orange?style=for-the-badge)
+![ROS](https://img.shields.io/badge/ROS2-learning-blue?style=for-the-badge)
 
-    <!-- CARD 2 -->
-    <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; background-color: #f8fafc; vertical-align: top;">
-      <h4>Frontier</h4>
-      <p style="font-size: 13px; color: #475569;">
-        Multiplayer space strategy game built with a custom JavaScript canvas engine and full state management system.
-      </p>
-      <code>JavaScript</code>
-      <code>Canvas</code>
-    </td>
+---
 
-    <!-- CARD 3 -->
-    <td width="33%" style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; background-color: #f8fafc; vertical-align: top;">
-      <h4>Compensation Analysis Pipeline</h4>
-      <p style="font-size: 13px; color: #475569;">
-        Data pipeline analyzing global compensation trends using R and SQL. Focus on role, skill, and location-based insights.
-      </p>
-      <code>R</code>
-      <code>SQL</code>
-    </td>
+## systems & tools
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-  </tr>
-</table>
+---
+
+## design / prototyping tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+# projects
+
+## Robotic Dog Companion
+A robotics platform combining embedded systems, circuitry, CAD, and physical prototyping. Exploring motion control, interaction systems, and hardware/software integration.
+
+`Embedded Systems` · `CAD` · `3D Printing` · `Python`
+
+---
+
+## Frontier
+Multiplayer space strategy game built with a custom JavaScript canvas engine and full state management system.
+
+`JavaScript` · `Canvas`
+
+---
+
+## Compensation Analysis Pipeline
+Data pipeline analyzing global compensation trends using R and SQL. Focus on role, skill, and location-based insights.
+
+`R` · `SQL`
 
 *(GIF demos coming soon — robotics motion, embedded systems, and interactive projects)*
 
