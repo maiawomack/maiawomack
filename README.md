@@ -27,11 +27,12 @@ fun fact: I founded a tutoring practice and helped increase female participation
 # tech stack:
 
 ## core languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
@@ -42,13 +43,6 @@ fun fact: I founded a tutoring practice and helped increase female participation
 ![CAD](https://img.shields.io/badge/CAD%20%2F%203D%20Printing-grey?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## robotics & perception (learning / building into)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/computer%20vision-learning-orange?style=for-the-badge)
-![ROS](https://img.shields.io/badge/ROS2-learning-blue?style=for-the-badge)
 
 ---
 
