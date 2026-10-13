@@ -94,4 +94,4 @@ Hobbies ── skiing · hiking · camping · pottery · singing · crafting · 
 
 Current Watches ─ Clone Wars · New Girl · High Potential · The Departed
 
-Current Reads ── Six of Crows
+Current Reads ── Red Rising (Morning Star)
