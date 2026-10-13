@@ -13,7 +13,6 @@ University of Washington, Seattle · CS ‘29 · open to internships
 ---
 
 # SOCIALS:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wo.maia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
 
 ---
